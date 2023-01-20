@@ -1,6 +1,6 @@
-# MarkDown File Generator
+# Professional Readme
 
-Application that allows the user to create a high quality README.md that includes a title, description, table of contents, installation, how to use, license, contributing, testing, and a question section. It's optional to the user if they prefer a Table of Contents, and based on their choice we'll update. User can click the links in the Table of Contents to take the user to that section, and each section is formatted correctly. This README was also created from this application!
+Our task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package Links to an external site. This README was also created from this application!
 
 ## Table Of Contents
 
@@ -12,7 +12,7 @@ Application that allows the user to create a high quality README.md that include
 
 ## Usage
 
-The app will ask the user what they would want on their project's README file, from title, description, license, table of contents, usage, install, contributing, tests, and questions. And it will ask at the end if the user wants to rename the MD file to something else, by default it is README.md. Once the user Enters, then their generated MD file will be displayed in the dist folder. <br />
+This application will ask the user what they would want on their project's README file, from title, description, license, table of contents, usage, install, contributing, tests, and questions. Once the user Enters, then their generated MD file will be displayed in the dist folder. <br />
 [Video on how to generate README.md file](https://user-images.githubusercontent.com/109389786/213544192-a008e077-614d-4b55-85e9-e41bfbac9219.mp4)
 
 
